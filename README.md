@@ -9,42 +9,36 @@
   <th>Навыки и инструменты</th>
 </tr> 
 <tr>
-  <td><a href="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/1_music_of_big_cities">Исследование данных 
+  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/1.%20Музыка%20больших%20городов">Исследование данных 
 сервиса “Яндекс.Музыка” — сравнение пользователей двух городов</a></td>
   <td>На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения 
 пользователей двух столиц — Москвы и Санкт-Петербурга.</td>
   <td>Python, Pandas</td>
 </tr>
 <tr>
-  <td><a href  = "https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/2_data_preprocessing">Исследование 
+  <td><a href  = "https://github.com/aavolkov17/YandexPracticum/tree/main/2.%20Исследование%20надежности%20заемщиков">Исследование 
 надёжности заёмщиков — анализ банковских данных</a></td>
   <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
 кредита в срок</td>
   <td>Pandas, Python, предобработка данных</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/3_research_for_the_sale_of_apartaments">Продажа 
+  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/3.%20Исследование%20рынка%20недвижимости">Продажа 
 квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
   <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
   <td>Python, Pandas, Matplotlib, Исследовательский анализ, визуализация даннных, предобработка данных</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/4_determination_of_the_prospective_tariff">Определение 
+  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/4.%20Выбор%20оптимального%20тарифа">Определение 
 выгодного тарифа для телеком компании</a></td>
   <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
   <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
 </tr>
 <tr>
-  <td><a href ="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/5_prefabricated_project_1">Сборный 
+  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/5.%20Сборный%20проект-1">Сборный 
 проект-1</a></td>
   <td>Анализ рынка компьютерных игр</td>
   <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
-</tr>
-<tr>
-  <td><a href="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/14_determining_the_age_of_buyers">Обработка 
-фотографий покупателя</a></td>
-  <td>Определение возраста по фотографии</td>
-  <td>Python,Keras</td>
 </tr>
 <tr>
   <td><a href="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/6_recommendation_of_tariffs">Классификаиция 
@@ -95,7 +89,13 @@
   <td>Python, Pandas, BERT, nltk, tf-idf</td>
 </tr>
 <tr>
-  <td><a href ="https://github.com/Sata9islav/Yandex_Practicum_Data_Science/tree/master/15_final_project">Финальный 
+  <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p14.%20Определение%20возраста%20покупателей">Обработка 
+фотографий покупателя</a></td>
+  <td>Определение возраста по фотографии</td>
+  <td>Python,Keras</td>
+</tr>
+<tr>
+  <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/p15.%20Финальный%20проетк">Финальный 
 проект</a></td>
   <td>Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, 
 ему будут предложены промокоды и специальные условия.</td>

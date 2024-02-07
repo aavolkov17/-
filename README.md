@@ -44,31 +44,31 @@
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/6.%20Классификация%20клиентов">Классификаиция 
 клиентов телеком компании</a></td>
   <td>На основе данных предложить клиенту тариф.</td>
-  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
+  <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
   <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/7.%20Прогнозирование%20оттока%20клиентов">Прогнозирование 
 оттока клиента Банка</a></td>
   <td>На основе данных из банка определить клиент, который может уйти</td>
-  <td>Python,Pandas,Matplotlib,Scikit-learn</td>
+  <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/8.%20Выбор%20локации%20для%20нефтедобычи">Определение 
 наиболее выгодного региона нефтедобычи</a></td>
   <td>На основе данных геологи разведки выбрать район добычи нефти</td>
-  <td>Pandas,Matplotlib,Scikit-learn</td>
+  <td>Python, Pandas, Matplotlib, Scikit-learn</td>
 </tr>
 <tr>
   <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/9.%20Сборный%20проект-2">Сборный 
 проект-2</a></td>
   <td>Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
-  <td>Python,Pandas,Matplotlib,NumPy,Scikit-learn,исследовательский анализ данных</td>
+  <td>Python, Pandas, Matplotlib, Seaborn, NumPy,Scikit-learn, исследовательский анализ данных</td>
 </tr>
 <tr>
   <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/p10.%20Защита%20персональных%20данных">Защита 
 данных клиентов страховой компании</a></td>
   <td>Разработка модели анонимизации персональных данных</td>
-  <td>Python, NumPy, Scikit-learn</td>
+  <td>Python, Pandas, NumPy, Scikit-learn</td>
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p11.%20Определение%20стоимости%20автомобилей">Построение 
@@ -86,13 +86,13 @@
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p13.%20Проект%20для%20%22Викишоп%22">Обучение модели 
 классификации комментариев</a></td>
   <td>Определение токсичности комментарии.</td>
-  <td>Python, Pandas, BERT, nltk, tf-idf</td>
+  <td>Python, Pandas, Scikit-learn, tf-idf</td>
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p14.%20Определение%20возраста%20покупателей">Обработка 
 фотографий покупателя</a></td>
   <td>Определение возраста по фотографии</td>
-  <td>Python,Keras</td>
+  <td>Python, Tensorflow, Keras</td>
 </tr>
 <tr>
   <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/p15.%20Финальный%20проетк">Финальный 

@@ -26,19 +26,19 @@
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/3.%20Исследование%20рынка%20недвижимости">Продажа 
 квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
   <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
-  <td>Python, Pandas, Matplotlib, Исследовательский анализ, визуализация даннных, предобработка данных</td>
+  <td>Python, Pandas, Matplotlib, исследовательский анализ, предобработка данных</td>
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/4.%20Выбор%20оптимального%20тарифа">Определение 
 выгодного тарифа для телеком компании</a></td>
   <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
-  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
+  <td>Python, Pandas, Matplotlib, NumPy, SciPy, проверка статистических гипотез</td>
 </tr>
 <tr>
   <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/5.%20Сборный%20проект-1">Сборный 
 проект-1</a></td>
   <td>Анализ рынка компьютерных игр</td>
-  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
+  <td>предобработка данных, исследовательский аналих данных, проверка статистических гипотез, python, pandas, matplotlib, seaborn, scipy</td>
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/6.%20Классификация%20клиентов">Классификаиция 

@@ -38,7 +38,7 @@
   <td><a href ="https://github.com/aavolkov17/YandexPracticum/tree/main/5.%20Сборный%20проект-1">Сборный 
 проект-1</a></td>
   <td>Анализ рынка компьютерных игр</td>
-  <td>python, pandas, matplotlib, seaborn, scipy, предобработка данных, исследовательский аналих данных, проверка статистических гипотез</td>
+  <td>Python, Pandas, Matplotlib, Seaborn, SciPy, предобработка данных, исследовательский аналих данных, проверка статистических гипотез</td>
 </tr>
 <tr>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/6.%20Классификация%20клиентов">Классификаиция 

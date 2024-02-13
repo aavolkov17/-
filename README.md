@@ -86,14 +86,14 @@
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p11.%20Определение%20стоимости%20автомобилей">Построение 
 модели определения стоимости автомобиля</a></td>
   <td>Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
-  <td>Python,Pandas,lightgbm</td>
+  <td>Python, Pandas, lightgbm</td>
 </tr>
 <tr>
   <th>12</th>
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p12.%20Прогнозирование%20заказов%20такси">Прогнозирование 
 количества заказов такси на следующий час</a></td>
   <td>Разработка системы предсказаний количества заказов</td>
-  <td>Python,Pandas,Scikit-learn,statsmodels</td>
+  <td>Python, Pandas, Scikit-learn</td>
 </tr>
 <tr>
   <th>13</th>

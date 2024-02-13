@@ -93,7 +93,7 @@
   <td><a href="https://github.com/aavolkov17/YandexPracticum/tree/main/p12.%20Прогнозирование%20заказов%20такси">Прогнозирование 
 количества заказов такси на следующий час</a></td>
   <td>Разработка системы предсказаний количества заказов</td>
-  <td>Python, Pandas, Scikit-learn</td>
+  <td>Python, Pandas, Scikit-learn, CatBoost</td>
 </tr>
 <tr>
   <th>13</th>
